@@ -1,0 +1,167 @@
+h1{font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  left: -900px;
+  top: 150px ;
+  right:-95px; 
+  bottom:0px ; 
+}
+h4{
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+position: relative;
+left: -400px;
+top:-150px ;
+right:-500px; 
+bottom:0px ; 
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+position: relative;
+left: -400px;
+top:-150px ;
+right:-500px; 
+bottom:0px ; 
+}
+p{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+position: relative;
+left: 300px;
+top:50px ;
+right:120px; 
+bottom:20px ; 
+}
+#p2{ 
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+position: relative;
+left: 426px;
+top:50px ;
+right:120px; 
+bottom:20px ;
+}
+
+
+#caja1 {width: 1900px;
+  height: 70px;
+  background-color:#636FD6;
+  margin: -8px 0px 0px -8px
+}
+
+#ttx1{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+
+  position: relative;
+  left: 400px;
+  top: -225px;
+  right: 0px;
+  bottom: 0px;
+  background-color: transparent;
+  color: white;
+}
+
+#ttx2{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  
+  position: relative;
+  left: 650px;
+  top: -487px;
+  right: 0px;
+  bottom: 0px;
+  background-color: transparent;
+  color: white;
+}
+
+#ttx3{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  
+  position: relative;
+  left: 870px;
+  top:-749px;
+  right: 0px;
+  bottom: 0px;
+  background-color: transparent;
+  color: white;
+}
+
+#ttx4{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  
+  position: relative;
+  left: 1090px;
+  top: -1010px;
+  right: 0px;
+  bottom: 0px;
+  background-color: transparent;
+  color: white;
+}
+
+#ttx5{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  
+  position: relative;
+  left: 1330px;
+  top: -1272px;
+  right: 0px;
+  bottom: 0px;
+  background-color: transparent;
+  color: white;
+}
+  
+  .logo{ width: 200px;
+    margin: -73px 0px 0px 20px;
+    }
+
+  div {width: 1769px;
+height: 150px;
+background-color:#75C7D4;
+margin: 95px 0px 112px -8px}
+
+.perro{ width: 250px;
+  margin: -145px 0px -56px 1640px;
+}
+
+#caja2 {width: 1900px;
+  height: 150px;
+    background-color:#E8DD54;
+  margin: 95px 0px 112px 121px;}
+  
+  .gato{ width: 250px;
+    margin: -144px 214px -28px -126px;
+    }
+
+#caja3 {width: 1769px;
+  height: 150px;
+    background-color:#CE943D;
+    margin: 95px 0px 112px -8px}
+    
+    .conejo{ width: 250px;
+      margin: -142px 0px -56px 1640px;
+      }
+
+#caja4 {width: 1900px;
+  height: 150px;
+      background-color:#46DF55;
+      margin: 95px 0px 112px 121px;}
+      
+      .pajaro{ width: 250px;
+        margin: -142px 214px -28px -126px;
+        }
+
+#caja5 {width: 1920px;
+          height: px;
+              background-color:#636FD6;
+              margin: 0px 0px 0px -8px;}
